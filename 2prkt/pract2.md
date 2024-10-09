@@ -426,6 +426,8 @@ for constraint in constraints:
 ```
 ## Результат:
 ![image](https://github.com/user-attachments/assets/7d933121-e364-4be1-99ac-16d5aa69a3d8)
+
+
 ## Полезные ссылки
 
 Semver: https://devhints.io/semver
