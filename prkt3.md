@@ -170,7 +170,8 @@ for i in range(10):
 
 Часть результата вывода программы:<br>
 
-![image](https://github.com/user-attachments/assets/17853a17-536b-4e93-bc99-36dd957c6b4a)<br>
+![4](https://github.com/user-attachments/assets/dde71f6e-40b8-46ee-ba41-a49548569fa3)
+
 
 # Задача 5
 Язык выражений алгебры логики.<br>
