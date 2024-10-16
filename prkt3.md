@@ -84,7 +84,8 @@ cat prktr3_2zd.json
 ```
 Результат:<br>
 
-![image](https://github.com/user-attachments/assets/6f3bf8e7-3932-4adf-8848-05d65e1e8a37)<br>
+![3](https://github.com/user-attachments/assets/4f484270-e76f-4dd8-a53d-9ed5f2aa69d4)
+
 
 # Задача 3
 Для решения дальнейших задач потребуется программа на Питоне, представленная в методичке к 3 практической работе. Разбираться в самом языке Питон при этом необязательно.<br>
