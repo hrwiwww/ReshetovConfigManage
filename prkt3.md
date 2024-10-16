@@ -63,7 +63,8 @@ cat prktr3_1zd.json
 ```
 Результат:<br>
 
-![2](https://github.com/user-attachments/assets/f6e79355-bcaa-49f0-8895-942f8d65340f)
+![2](https://github.com/user-attachments/assets/95305d41-8cf6-48c4-829e-d5149acb73c2)
+
 
 
 # Задача 2
