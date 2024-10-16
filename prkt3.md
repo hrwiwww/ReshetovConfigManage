@@ -126,7 +126,8 @@ for i in range(10):
 ```
 В результате при запуске выполнения файла получим:<br>
 
-![image](https://github.com/user-attachments/assets/87807910-73c7-4dbb-ad86-3ad8efc07af6)<br>
+![3](https://github.com/user-attachments/assets/906b4e1b-3f39-4820-bf6e-eb64cca5b4fc)
+
 
 # Задача 4
 Язык правильно расставленных скобок двух видов.<br>
