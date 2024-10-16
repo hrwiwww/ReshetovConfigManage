@@ -251,7 +251,8 @@ for i in range(10):
 
 Часть результата вывода программы:<br>
 
-![image](https://github.com/user-attachments/assets/9cebefbc-d657-4aff-9478-a34a1f8b32da)<br>
+![5](https://github.com/user-attachments/assets/ef76c129-1a60-4a2b-97a6-ab1aeb559535)
+
 
 # Полезные ссылки
 
