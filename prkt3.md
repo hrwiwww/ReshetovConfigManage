@@ -64,6 +64,8 @@ cat prktr3_1zd.json
 Результат:<br>
 
 ![image](https://github.com/user-attachments/assets/9328d131-bdff-4911-8a3c-2597d7a213ac)<br>
+![2](https://github.com/user-attachments/assets/f6e79355-bcaa-49f0-8895-942f8d65340f)
+
 
 # Задача 2
 Реализовать на Dhall приведенный выше пример в формате JSON. Использовать в реализации свойство программируемости и принцип Dry<br>
